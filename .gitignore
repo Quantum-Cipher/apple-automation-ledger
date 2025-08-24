@@ -7,3 +7,6 @@ logs/
 # Build
 .build/
 DerivedData/
+Automation/logs/
+Automation/keys/
+*.log
